@@ -73,7 +73,7 @@ https://www.green.com.br/loja/architecting-on-aws/
   - Gateway de Trânsito
   - Rede Híbrida
 
-   <strong> Arquitetura sem servidor </strong> 
+<strong> Arquitetura sem servidor </strong> 
 
   - O que é serverless?
   - Amazon API Gateway (Gateway de API da Amazon)
@@ -82,16 +82,16 @@ https://www.green.com.br/loja/architecting-on-aws/
   - Amazon Kinesis
   - Funções de etapa da AWS
 
-    Serviços de borda 
+<strong> Serviços de borda </strong>
 
-    Fundamentos do Edge
-    Rota 53 da Amazon
-    Amazon CloudFront
-    Proteção contra DDoS
-    Postos avançados da AWS
+  - Fundamentos do Edge
+  - Rota 53 da Amazon
+  - Amazon CloudFront
+  - Proteção contra DDoS
+  - Postos avançados da AWS
 
-    Backup e Recuperação 
+<strong> Backup e Recuperação </strong>
 
-    Planejamento para recuperação de desastres
-    AWS Backup
-    Estratégias de recuperação
+  - Planejamento para recuperação de desastres
+  - AWS Backup
+  - Estratégias de recuperação
